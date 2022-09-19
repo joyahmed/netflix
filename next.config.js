@@ -21,7 +21,7 @@ module.exports = {
 			'lottiefiles.com',
 			'assets10.lottiefiles.com',
 			'flagcdn.com',
-			'rb.gy'
+			'image.tmdb.org',
 		]
 	},
 	env: {}
